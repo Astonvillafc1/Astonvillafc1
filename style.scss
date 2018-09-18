@@ -31,39 +31,6 @@ body {
   width: 100%;
   border: 5px ridge #ff1c2e;	
 }
-
-.table {
-<html>
-
-<body>
-
-      <tr class="w3-red">
-        <th>First Name</th>
-        <th>Last Name</th>
-        <th>Points</th>
-      </tr>
-    </thead>
-    <tr>
-      <td>Jill</td>
-      <td>Smith</td>
-      <td>50</td>
-    </tr>
-    <tr>
-      <td>Eve</td>
-      <td>Jackson</td>
-      <td>94</td>
-    </tr>
-    <tr>
-      <td>Adam</td>
-      <td>Johnson</td>
-      <td>67</td>
-    </tr>
-  </table>
-</div>
-
-</body>
-</html> 
-}
 	
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
