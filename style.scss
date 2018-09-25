@@ -31,7 +31,18 @@ body {
   width: 120%;
   border: 6px ridge #3fb041;	
 }
-	
+
+table, th, td {
+    border: 1px solid silver;
+}
+
+table, th, td{
+  background-color: green;
+}
+thd, td {
+     padding: 15px;
+     text-align: left;
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $white;
