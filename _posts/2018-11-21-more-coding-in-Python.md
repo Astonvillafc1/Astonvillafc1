@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>To carry on coding in Battleships</td>
+    <td>To learn how to code in ripl.it</td>
     <td>Date</td>
-    <td>18/11/18</td>
+    <td>29/11/18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had only completed 9 levels of battleships.</td>
+    <td>I had not much of an idea of how to code.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>We had to carry on coding in Python</td>
+    <td>We had to learn to code in ripl.it</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, i spent all lesson carrying on with battleships.</td>
+    <td>Yes, I learnt how to do basic code.</td>
   </tr>
 </table>
 
@@ -39,19 +39,19 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I tried hard to make battleships good for the entire lesson.</td>
+    <td>I payed hard attention to Mr Keen.</td>
   </tr>
   <tr>
-    <td>Questioning?</td>
-    <td>I asked myself if what I wrote was the right answer.</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Independence</td>
-    <td>I worked for myself and by myself for the lesson.</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I think I worked very well and got a lot of good work done.</td>
+    <td>I think I learnt a lot in the lesson</td>
   </tr>
   <tr>
     <td>Engagement</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could have concentrated even more and given even more effort into my work and got even more achievement out of the lesson.</td>
+    <td>I could have concentrated even more and given even more effort into listening and answering questions.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>To put my head down and concentrate for the whole lesson without getting distracted.</td>
+    <td>I need to note down more of the code on the board to help with my game.</td>
     <td></td>
   </tr>
 </table>
